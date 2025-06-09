@@ -28,6 +28,4 @@ Explore stock trends for Apple, Microsoft, Netflix & Google, with volatility ins
 
 **💡 Curious?** Dive in, explore the dashboards, or connect for feedback & collaboration!
 
----
 
-Let me know if you want to include links, demo GIFs, or a pinned project setup!
